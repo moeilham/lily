@@ -123,6 +123,7 @@ body {
   justify-content: center;
   /* right: 20px; adjust this value to your liking */
   top: 300px; /* adjust this value to your liking */
+  pointer-events: none;
 }
 
 h2 {

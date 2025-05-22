@@ -13,7 +13,7 @@ const noBtnRect = noBtn.getBoundingClientRect()
 yesBtn.addEventListener('click', () => {
   question.innerHTML = 'yeeeey'
   questionTwo.innerHTML = 'dimaafin'
-  questionThree.innerHTML = '😍👍'
+  questionThree.innerHTML = '😍💖'
 
   btnGroup.style.display = 'none'
 
